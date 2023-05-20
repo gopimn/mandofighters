@@ -9,6 +9,10 @@ Este guardia me gusta
 
 ![IMG](https://drive.google.com/uc?id=1xvydutp86JnXgaFD3CN9eIZNikWKCEET)
 
+awesome
+
+![IMG](https://drive.google.com/uc?id=19wS4eJoyGdP9xfujsVaxFP1JGftD3Wzf)
+
 ## SPRITES
 Thist one is good
 
@@ -36,7 +40,7 @@ muy simple
 ![IMG](https://drive.google.com/uc?id=176No9f-cWjtSBN2-w-WwqIOM26iZ7-zt)
 
 
-![IMG](https://drive.google.com/uc?id=19wS4eJoyGdP9xfujsVaxFP1JGftD3Wzf)
+
 ![IMG](https://drive.google.com/uc?id=1CSPkqKCYsEPz22YGVZuRw1amx9_pryXj)
 ![IMG](https://drive.google.com/uc?id=1EP9jNH-tvrbbP-_Tgi20-jschwluI5jA)
 ![IMG](https://drive.google.com/uc?id=1FEvG2yk6sEzdLPkmAZTj8djoT1zM_u4D)
