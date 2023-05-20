@@ -3,10 +3,21 @@
 Dentro de la busqueda preliminar salio este video con un lindo tutorial que puede ser de referencia
 
 [![IMG IN THE LINK](https://private-user-images.githubusercontent.com/5314353/239696947-08e53ea0-f59e-4852-8a00-3d063cdbde74.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg0NTk4MzYyLCJuYmYiOjE2ODQ1OTgwNjIsInBhdGgiOiIvNTMxNDM1My8yMzk2OTY5NDctMDhlNTNlYTAtZjU5ZS00ODUyLThhMDAtM2QwNjNjZGJkZTc0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwNTIwVDE1NTQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwNWE5YjE1YjIxMDM4ZjAzZTM5ODAzY2JjNzA2NWFjYWRkNWJkY2RiNTU0Y2MzZjBmMjViOGU3M2MzYjEzZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gvVAdFyClDDKMvDRskAebg3lgK2wUnpPT8Exn_Em2Tc)](https://www.youtube.com/watch?v=NwNLeUaM5MI)
+## IMGS
 
+Este guardia me gusta
 ![IMG](https://drive.google.com/uc?id=1xvydutp86JnXgaFD3CN9eIZNikWKCEET)
-![IMG](https://drive.google.com/uc?id=10GwP3dRczMpuhAkQWGmuLZXt9sa0D4b3)
+
+## SPRITES
+Thist one is good
 ![IMG](https://drive.google.com/uc?id=10qUcgzdgjSArRi40qb2UCAk1xGwGniqO)
+But this one is the best
+![IMG](https://drive.google.com/uc?id=11HQwROtye9x3dnTYuIBJMGxblfXjJ0p2)
+
+## Inspiration pixel 
+![IMG](https://drive.google.com/uc?id=10GwP3dRczMpuhAkQWGmuLZXt9sa0D4b3)
+
+
 ![IMG](https://drive.google.com/uc?id=11HQwROtye9x3dnTYuIBJMGxblfXjJ0p2)
 ![IMG](https://drive.google.com/uc?id=14sEHq7pNWgBjEILF_ufkkItQVFs0nh9h)
 ![IMG](https://drive.google.com/uc?id=176No9f-cWjtSBN2-w-WwqIOM26iZ7-zt)
