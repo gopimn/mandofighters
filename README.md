@@ -124,6 +124,27 @@ muy simple
 ![IMG](https://drive.google.com/uc?id=1xvydutp86JnXgaFD3CN9eIZNikWKCEET)
 ![IMG](https://drive.google.com/uc?id=1NqztUF4ghb1cNcdI7tdSuFvXPWd4zml8)
 
+
+_____________________________-
+
+![IMG](imgs/jpg/file-1.jpg)
+![IMG](imgs/jpg/file-2.jpg)
+![IMG](imgs/jpg/file-3.jpg)
+![IMG](imgs/jpg/file-4.jpg)
+![IMG](imgs/jpg/file-5.jpg)
+![IMG](imgs/jpg/file-6.jpg)
+![IMG](imgs/jpg/file-7.jpg)
+![IMG](imgs/jpg/file-8.jpg)
+![IMG](imgs/jpg/file-9.jpg)
+![IMG](imgs/jpg/file-10.jpg)
+![IMG](imgs/jpg/file-11.jpg)
+![IMG](imgs/jpg/file-12.jpg)
+![IMG](imgs/jpg/file-13.jpg)
+![IMG](imgs/jpg/file-14.jpg)
+![IMG](imgs/jpg/file-15.jpg)
+![IMG](imgs/jpg/file-16.jpg)
+![IMG](imgs/jpg/file-17.jpg)
+![IMG](imgs/jpg/file-18.jpg)
 _________________________________
 - tiene que verse el hexagono en el pecho
 
