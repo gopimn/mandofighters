@@ -6,170 +6,209 @@ Dentro de la busqueda preliminar salio este video con un lindo tutorial que pued
 
 ## warsong
 
-![a](https://drive.google.com/uc?id=1FvGPgfu1EW-T04ZxJbSwHPPSKdU4IDW3)
+![IMG](imgs/gif/file-1.gif)
+
+![IMG](imgs/gif/file-3.gif)
 
 ## IMGS
 
+yeah baby
+
+![IMG](imgs/jpg/file-24.jpg)
+
+Por ahi va
+
+![IMG](imgs/jpg/file-5.jpg)
+
+This is the way
+
+![IMG](imgs/jpg/file-7.jpg)
+
+This is also great
+
+![IMG](imgs/jpg/file-9.jpg)
+
 Este guardia me gusta
 
-![b](https://drive.google.com/uc?id=1xvydutp86JnXgaFD3CN9eIZNikWKCEET)
+![IMG](imgs/png/file-3.png)
 
 awesome
 
-![c](https://drive.google.com/uc?id=19wS4eJoyGdP9xfujsVaxFP1JGftD3Wzf)
+![IMG](imgs/jpg/file-10.jpg)
 
-LAAIK
+meh
 
-![IMG](https://drive.google.com/uc?id=1EP9jNH-tvrbbP-_Tgi20-jschwluI5jA)
-
-RO like
-
-![IMG](https://drive.google.com/uc?id=1FEvG2yk6sEzdLPkmAZTj8djoT1zM_u4D)
-
-![IMG](https://drive.google.com/uc?id=1GzPmMVVB-CjexZ8DO2yeXkjUzMQSMAnJ)
-
-IMBADNDO
-
-
-![IMG](https://drive.google.com/uc?id=1GC84PH1sJusLBv8mWJox4LUXF3pEdSjE)
+![IMG](imgs/jpg/file-12.jpg)
 
 ## SPRITES
-Thist one is good
-
-![IMG](https://drive.google.com/uc?id=10qUcgzdgjSArRi40qb2UCAk1xGwGniqO)
-
-But this one is the best
-
-![IMG](https://drive.google.com/uc?id=11HQwROtye9x3dnTYuIBJMGxblfXjJ0p2)
-
-I like this one also
-
-![IMG](https://drive.google.com/uc?id=18EPIQjU6qJ5Upt1EyT2p4sze8VvJgqpO)
 
 El del zorro  <3
 
 ![IMG](imgs/jpg/file-1.jpg)
 
-## Inspiration pixel 
-![IMG](https://drive.google.com/uc?id=10GwP3dRczMpuhAkQWGmuLZXt9sa0D4b3)
+![IMG](imgs/jpg/file-34.jpg)
+
+igualsh
+
+![IMG](imgs/png/file-1.png)
+
+![IMG](imgs/png/file-2.png)
+
+![IMG](imgs/png/file-5.png)
+
+![IMG](imgs/png/file-6.png)
+
+![IMG](imgs/png/file-7.png)
+
+da besto
+
+![IMG](imgs/png/file-9.png)
+
+![IMG](imgs/png/file-10.png)
+
+![IMG](imgs/png/file-13.png)
+
+## Inspiration pixel
+
+![IMG](imgs/jpg/file-13.jpg)
+
+![IMG](imgs/jpg/file-14.jpg)
+
+![IMG](imgs/jpg/file-16.jpg)
+
+![IMG](imgs/jpg/file-31.jpg)
+
+![IMG](imgs/png/file-11.png)
+
+me gusta el simbolo de atras
+
+![IMG](imgs/png/file-14.png)
+
+RO like
+
+![IMG](imgs/jpg/file-11.jpg)
+
+![IMG](imgs/png/file-12.png)
+
+![IMG](imgs/jpg/file-19.jpg)
+
+![IMG](imgs/gif/file-2.gif)
+
+![IMG](imgs/jpg/file-20.jpg)
 
 ## Dark
-
-This is the way
-
-![IMG](https://drive.google.com/uc?id=1CSPkqKCYsEPz22YGVZuRw1amx9_pryXj)
-
-yeah
-
-![IMG](https://drive.google.com/uc?id=1JK-hMRCGU0wmIYLXOXi6JPgqn-0hp8Ov)
 
 more
 
 ![IMG](imgs/jpg/file-2.jpg)
 
+and more
+
+![IMG](imgs/jpg/file-6.jpg)
+
+![IMG](imgs/jpg/file-23.jpg)
+
+![IMG](imgs/jpg/file-26.jpg)
+
+![IMG](imgs/jpg/file-28.jpg)
+
+![IMG](imgs/jpg/file-33.jpg)
 
 ## Inspiration
 
-Yeah mandos 
+awesome
 
-![IMG](https://drive.google.com/uc?id=1LVV_vlQuSQ2OEaZ38HrT6RdcZeBaZ-yQ)
+![IMG](imgs/jpg/file-4.jpg)
+
+mandoade
+
+![IMG](imgs/jpg/file-36.jpg)
+
+![IMG](imgs/jpg/file-8.jpg)
+
+![IMG](imgs/jpg/file-18.jpg)
+
+![IMG](imgs/jpg/file-17.jpg)
+
+![IMG](imgs/jpg/file-21.jpg)
+
+![IMG](imgs/jpg/file-25.jpg)
+
+![IMG](imgs/08.webp)
+
+![IMG](imgs/07.avif)
+
+FOTO DEL BASILISKO
+
+![IMG](imgs/jpg/file-27.jpg)
+
+![IMG](imgs/jpg/file-29.jpg)
+
+![IMG](imgs/jpg/file-30.jpg)
+
+![IMG](imgs/jpg/file-32.jpg)
+
+![IMG](imgs/jpg/file-35.jpg)
+
+![IMG](imgs/jpg/file-38.jpg)
+
+![IMG](imgs/png/file-4.png)
+
+## este es el mas wenazo
+
+![IMG](imgs/jpg/file-22.jpg)
+
+## Games
+
+![IMG](imgs/jpg/file-3.jpg)
 
 ## NO
 Feo
 
-![IMG](https://drive.google.com/uc?id=14sEHq7pNWgBjEILF_ufkkItQVFs0nh9h)
+![IMG](imgs/jpg/file-37.jpg)
 
 muy simple
 
-![IMG](https://drive.google.com/uc?id=176No9f-cWjtSBN2-w-WwqIOM26iZ7-zt)
+![IMG](imgs/png/file-15.png)
 
+![IMG](imgs/png/file-17.png)
 
+PLZ NO
 
-
-
-
-
-
-
-
-
-
-_____________________________-
-## JPG
-
-
-![IMG](imgs/jpg/file-3.jpg)
-![IMG](imgs/jpg/file-4.jpg)
-![IMG](imgs/jpg/file-5.jpg)
-![IMG](imgs/jpg/file-6.jpg)
-![IMG](imgs/jpg/file-7.jpg)
-![IMG](imgs/jpg/file-8.jpg)
-![IMG](imgs/jpg/file-9.jpg)
-![IMG](imgs/jpg/file-10.jpg)
-![IMG](imgs/jpg/file-11.jpg)
-![IMG](imgs/jpg/file-12.jpg)
-![IMG](imgs/jpg/file-13.jpg)
-![IMG](imgs/jpg/file-14.jpg)
-![IMG](imgs/jpg/file-15.jpg)
-![IMG](imgs/jpg/file-16.jpg)
-![IMG](imgs/jpg/file-17.jpg)
-![IMG](imgs/jpg/file-18.jpg)
-![IMG](imgs/jpg/file-19.jpg)
-![IMG](imgs/jpg/file-20.jpg)
-![IMG](imgs/jpg/file-21.jpg)
-![IMG](imgs/jpg/file-22.jpg)
-![IMG](imgs/jpg/file-23.jpg)
-![IMG](imgs/jpg/file-24.jpg)
-![IMG](imgs/jpg/file-25.jpg)
-![IMG](imgs/jpg/file-26.jpg)
-![IMG](imgs/jpg/file-27.jpg)
-![IMG](imgs/jpg/file-28.jpg)
-![IMG](imgs/jpg/file-29.jpg)
-![IMG](imgs/jpg/file-30.jpg)
-![IMG](imgs/jpg/file-31.jpg)
-![IMG](imgs/jpg/file-32.jpg)
-![IMG](imgs/jpg/file-33.jpg)
-![IMG](imgs/jpg/file-34.jpg)
-![IMG](imgs/jpg/file-35.jpg)
-![IMG](imgs/jpg/file-36.jpg)
-![IMG](imgs/jpg/file-37.jpg)
-![IMG](imgs/jpg/file-38.jpg)
-
+![IMG](imgs/png/file-8.png)
 
 _________________________________
 - tiene que verse el hexagono en el pecho
 
+Esta es la ley:
 
-Estos son los mas bakanes
-
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fc1b9ba2e-a81d-459c-bc19-6316498777ad&tbnid=KzAdjsz-hEx_DM&vet=12ahUKEwiDtdn5nIT_AhUzRLgEHY8IDdMQMygKegUIARDxAQ..i&imgrefurl=https%3A%2F%2Fstarwars.fandom.com%2Ff%2Fp%2F3343172654596399888%2Fr%2F3344233352138251188&docid=ZAAoHsnslrwSTM&w=1200&h=900&q=mandalorian%20pixel%20art&client=firefox-b-d&ved=2ahUKEwiDtdn5nIT_AhUzRLgEHY8IDdMQMygKegUIARDxAQ
+![IMG](imgs/jpg/file-15.jpg)
 
 
-https://starwars.fandom.com/f/p/4400000000002267365/r/4400000000006815237
+Estos son los mas bakanes, el trabajo de [Pao Drataban](https://starwars.fandom.com/f/u/43784239): 
 
-https://starwars.fandom.com/f/p/4400000000000033633
+- [Pixel art “Tusken Raider & Cobb Vanth”](https://starwars.fandom.com/f/p/4400000000002267365/r/4400000000006815237)
 
-https://starwars.fandom.com/f/p/3343172654596398262/r/3344233352138228172
+- [Pixel Art “Hunter”](https://starwars.fandom.com/f/p/4400000000000033633)
+- [Pixel Art “Darth Vader”](https://starwars.fandom.com/f/p/3343172654596398262/r/3344233352138228172)
+-[Pixel Art “Commander Cody”](https://starwars.fandom.com/f/p/4400000000000030998/r/4400000000000761034)
+- [Pixel art “Jango Fett”](https://starwars.fandom.com/f/p/3343172654596398611/r/3344233352138234543)
+- [twitter](https://twitter.com/christophsis2/status/1343396375870939137)
+- [Storm Troopers Vol.1 (48×48)](https://starwars.fandom.com/f/p/3343172654596382780)
+- [Pixel Art “The Mandalorian”](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fc1b9ba2e-a81d-459c-bc19-6316498777ad&tbnid=KzAdjsz-hEx_DM&vet=12ahUKEwiDtdn5nIT_AhUzRLgEHY8IDdMQMygKegUIARDxAQ..i&imgrefurl=https%3A%2F%2Fstarwars.fandom.com%2Ff%2Fp%2F3343172654596399888%2Fr%2F3344233352138251188&docid=ZAAoHsnslrwSTM&w=1200&h=900&q=mandalorian%20pixel%20art&client=firefox-b-d&ved=2ahUKEwiDtdn5nIT_AhUzRLgEHY8IDdMQMygKegUIARDxAQ)
+- [this game looks funny](https://twitter.com/2Biiit/status/1391048326481551364)
+- [This game also looks good](https://steamcommunity.com/sharedfiles/filedetails/?id=2688358374
+)
+- [I played this :D](https://eric-c-wilder.itch.io/mando)
 
-https://starwars.fandom.com/f/p/4400000000000030998/r/4400000000000761034
+## Primer intento
+- [And this is the law](https://www.spriters-resource.com/snes/superstarwars2theempirestrikesback/sheet/11101/)
 
-https://starwars.fandom.com/f/p/3343172654596398611/r/3344233352138234543
 
-https://starwars.fandom.com/f/u/43784239
 
-https://twitter.com/christophsis2/status/1343396375870939137
 
-https://opensea.io/es/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/8112316025873927737505937898915153732580103913704334048512379923449008619521
 
-https://starwars.fandom.com/f/u/43784239
 
-https://starwars.fandom.com/f/p/3343172654596382780
 
-https://twitter.com/2Biiit/status/1391048326481551364
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2688358374
-
-https://eric-c-wilder.itch.io/mando
-
-https://www.spriters-resource.com/snes/superstarwars2theempirestrikesback/sheet/11101/
 
