@@ -13,6 +13,19 @@ awesome
 
 ![IMG](https://drive.google.com/uc?id=19wS4eJoyGdP9xfujsVaxFP1JGftD3Wzf)
 
+LAAIK
+
+![IMG](https://drive.google.com/uc?id=1EP9jNH-tvrbbP-_Tgi20-jschwluI5jA)
+
+RO like
+
+![IMG](https://drive.google.com/uc?id=1FEvG2yk6sEzdLPkmAZTj8djoT1zM_u4D)
+
+IMBADNDO
+
+![IMG](https://drive.google.com/uc?id=1FvGPgfu1EW-T04ZxJbSwHPPSKdU4IDW3)
+
+
 ## SPRITES
 Thist one is good
 
@@ -30,6 +43,12 @@ I like this one also
 ## Inspiration pixel 
 ![IMG](https://drive.google.com/uc?id=10GwP3dRczMpuhAkQWGmuLZXt9sa0D4b3)
 
+## Dark
+
+This is the way
+
+![IMG](https://drive.google.com/uc?id=1CSPkqKCYsEPz22YGVZuRw1amx9_pryXj)
+
 ## NO
 Feo
 
@@ -41,10 +60,10 @@ muy simple
 
 
 
-![IMG](https://drive.google.com/uc?id=1CSPkqKCYsEPz22YGVZuRw1amx9_pryXj)
-![IMG](https://drive.google.com/uc?id=1EP9jNH-tvrbbP-_Tgi20-jschwluI5jA)
-![IMG](https://drive.google.com/uc?id=1FEvG2yk6sEzdLPkmAZTj8djoT1zM_u4D)
-![IMG](https://drive.google.com/uc?id=1FvGPgfu1EW-T04ZxJbSwHPPSKdU4IDW3)
+
+
+
+
 ![IMG](https://drive.google.com/uc?id=1GC84PH1sJusLBv8mWJox4LUXF3pEdSjE)
 ![IMG](https://drive.google.com/uc?id=1GzPmMVVB-CjexZ8DO2yeXkjUzMQSMAnJ)
 ![IMG](https://drive.google.com/uc?id=1JK-hMRCGU0wmIYLXOXi6JPgqn-0hp8Ov)
