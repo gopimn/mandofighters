@@ -4,7 +4,7 @@ Dentro de la busqueda preliminar salio este video con un lindo tutorial que pued
 
 [![IMG IN THE LINK](https://private-user-images.githubusercontent.com/5314353/239696947-08e53ea0-f59e-4852-8a00-3d063cdbde74.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg0NTk4MzYyLCJuYmYiOjE2ODQ1OTgwNjIsInBhdGgiOiIvNTMxNDM1My8yMzk2OTY5NDctMDhlNTNlYTAtZjU5ZS00ODUyLThhMDAtM2QwNjNjZGJkZTc0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwNTIwVDE1NTQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwNWE5YjE1YjIxMDM4ZjAzZTM5ODAzY2JjNzA2NWFjYWRkNWJkY2RiNTU0Y2MzZjBmMjViOGU3M2MzYjEzZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gvVAdFyClDDKMvDRskAebg3lgK2wUnpPT8Exn_Em2Tc)](https://www.youtube.com/watch?v=NwNLeUaM5MI)
 
-![IMG](https://drive.google.com/file/d/1xvydutp86JnXgaFD3CN9eIZNikWKCEET/view?usp=sharing)
+![IMG](https://drive.google.com/file/d/1xvydutp86JnXgaFD3CN9eIZNikWKCEET/view)
 - tiene que verse el hexagono en el pecho
 
 
