@@ -46,6 +46,9 @@ I like this one also
 
 ![IMG](https://drive.google.com/uc?id=18EPIQjU6qJ5Upt1EyT2p4sze8VvJgqpO)
 
+El del zorro  <3
+
+![IMG](imgs/jpg/file-1.jpg)
 
 ## Inspiration pixel 
 ![IMG](https://drive.google.com/uc?id=10GwP3dRczMpuhAkQWGmuLZXt9sa0D4b3)
@@ -59,6 +62,11 @@ This is the way
 yeah
 
 ![IMG](https://drive.google.com/uc?id=1JK-hMRCGU0wmIYLXOXi6JPgqn-0hp8Ov)
+
+more
+
+![IMG](imgs/jpg/file-2.jpg)
+
 
 ## Inspiration
 
@@ -87,9 +95,9 @@ muy simple
 
 
 _____________________________-
+## JPG
 
-![IMG](imgs/jpg/file-1.jpg)
-![IMG](imgs/jpg/file-2.jpg)
+
 ![IMG](imgs/jpg/file-3.jpg)
 ![IMG](imgs/jpg/file-4.jpg)
 ![IMG](imgs/jpg/file-5.jpg)
