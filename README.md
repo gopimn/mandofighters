@@ -3,6 +3,11 @@
 Dentro de la busqueda preliminar salio este video con un lindo tutorial que puede ser de referencia
 
 [![IMG IN THE LINK](https://private-user-images.githubusercontent.com/5314353/239696947-08e53ea0-f59e-4852-8a00-3d063cdbde74.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg0NTk4MzYyLCJuYmYiOjE2ODQ1OTgwNjIsInBhdGgiOiIvNTMxNDM1My8yMzk2OTY5NDctMDhlNTNlYTAtZjU5ZS00ODUyLThhMDAtM2QwNjNjZGJkZTc0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwNTIwVDE1NTQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwNWE5YjE1YjIxMDM4ZjAzZTM5ODAzY2JjNzA2NWFjYWRkNWJkY2RiNTU0Y2MzZjBmMjViOGU3M2MzYjEzZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gvVAdFyClDDKMvDRskAebg3lgK2wUnpPT8Exn_Em2Tc)](https://www.youtube.com/watch?v=NwNLeUaM5MI)
+
+## warsong
+
+![IMG](https://drive.google.com/uc?id=1FvGPgfu1EW-T04ZxJbSwHPPSKdU4IDW3)
+
 ## IMGS
 
 Este guardia me gusta
@@ -21,10 +26,12 @@ RO like
 
 ![IMG](https://drive.google.com/uc?id=1FEvG2yk6sEzdLPkmAZTj8djoT1zM_u4D)
 
+![IMG](https://drive.google.com/uc?id=1GzPmMVVB-CjexZ8DO2yeXkjUzMQSMAnJ)
+
 IMBADNDO
 
-![IMG](https://drive.google.com/uc?id=1FvGPgfu1EW-T04ZxJbSwHPPSKdU4IDW3)
 
+![IMG](https://drive.google.com/uc?id=1GC84PH1sJusLBv8mWJox4LUXF3pEdSjE)
 
 ## SPRITES
 Thist one is good
@@ -49,6 +56,11 @@ This is the way
 
 ![IMG](https://drive.google.com/uc?id=1CSPkqKCYsEPz22YGVZuRw1amx9_pryXj)
 
+yeah
+
+![IMG](https://drive.google.com/uc?id=1JK-hMRCGU0wmIYLXOXi6JPgqn-0hp8Ov)
+
+
 ## NO
 Feo
 
@@ -64,9 +76,9 @@ muy simple
 
 
 
-![IMG](https://drive.google.com/uc?id=1GC84PH1sJusLBv8mWJox4LUXF3pEdSjE)
-![IMG](https://drive.google.com/uc?id=1GzPmMVVB-CjexZ8DO2yeXkjUzMQSMAnJ)
-![IMG](https://drive.google.com/uc?id=1JK-hMRCGU0wmIYLXOXi6JPgqn-0hp8Ov)
+
+
+
 ![IMG](https://drive.google.com/uc?id=1LVV_vlQuSQ2OEaZ38HrT6RdcZeBaZ-yQ)
 ![IMG](https://drive.google.com/uc?id=1LdRkweMCyzIiTIAOofx1nMCZ1c-gqjdF)
 ![IMG](https://drive.google.com/uc?id=1M825iU79vhiIayselScO__UdcszA3E2x)
