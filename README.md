@@ -6,12 +6,16 @@ Dentro de la busqueda preliminar salio este video con un lindo tutorial que pued
 ## IMGS
 
 Este guardia me gusta
+
 ![IMG](https://drive.google.com/uc?id=1xvydutp86JnXgaFD3CN9eIZNikWKCEET)
 
 ## SPRITES
 Thist one is good
+
 ![IMG](https://drive.google.com/uc?id=10qUcgzdgjSArRi40qb2UCAk1xGwGniqO)
+
 But this one is the best
+
 ![IMG](https://drive.google.com/uc?id=11HQwROtye9x3dnTYuIBJMGxblfXjJ0p2)
 
 ## Inspiration pixel 
