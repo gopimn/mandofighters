@@ -60,6 +60,11 @@ yeah
 
 ![IMG](https://drive.google.com/uc?id=1JK-hMRCGU0wmIYLXOXi6JPgqn-0hp8Ov)
 
+## Inspiration
+
+Yeah mandos 
+
+![IMG](https://drive.google.com/uc?id=1LVV_vlQuSQ2OEaZ38HrT6RdcZeBaZ-yQ)
 
 ## NO
 Feo
@@ -79,7 +84,7 @@ muy simple
 
 
 
-![IMG](https://drive.google.com/uc?id=1LVV_vlQuSQ2OEaZ38HrT6RdcZeBaZ-yQ)
+
 ![IMG](https://drive.google.com/uc?id=1LdRkweMCyzIiTIAOofx1nMCZ1c-gqjdF)
 ![IMG](https://drive.google.com/uc?id=1M825iU79vhiIayselScO__UdcszA3E2x)
 ![IMG](https://drive.google.com/uc?id=1MegUmbT7dwQry8ij_9HedNn1ORrqMPOi)
