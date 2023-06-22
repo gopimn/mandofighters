@@ -232,7 +232,7 @@ Estos son los mas bakanes, el trabajo de [Pao Drataban](https://starwars.fandom.
 
 ![IMG](imgs/png/file-20.png)
 
-
+- [Voy en este video](https://www.youtube.com/watch?v=65E-q0JxYwU&list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U&index=5)
 
 
 

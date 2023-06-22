@@ -7,6 +7,8 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D characterBody;
     private Animator anim;
     private SpriteRenderer sprite;
+    [SerializeField] private float velRate = 3f;
+    [SerializeField] private float jumpRate = 3f;
     private float dirX; // input from user (arrows -> <-)
 
     // estos son para el display
@@ -42,18 +44,17 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Input.GetButtonDown("Jump"))
             {
-                characterBody.velocity = new Vector2(characterBody.velocity.x, 3f);
-                //anim.SetBool("inTheAir", true);
+                characterBody.velocity = new Vector2(characterBody.velocity.x, jumpRate);
             }
         if (dirX > 0f)
         {
-            characterBody.velocity = new Vector2(dirX * 3f, characterBody.velocity.y);
+            characterBody.velocity = new Vector2(dirX * velRate, characterBody.velocity.y);
             anim.SetBool("moving", true);
             sprite.flipX = false;
         }
         else if (dirX < 0f)
         {
-            characterBody.velocity = new Vector2(dirX * 3f, characterBody.velocity.y);
+            characterBody.velocity = new Vector2(dirX * velRate, characterBody.velocity.y);
             anim.SetBool("moving", true);
             sprite.flipX = true;
         }
@@ -77,8 +78,8 @@ public class PlayerMovement : MonoBehaviour
         // Show the number of calls to both messages.
         GUIStyle fontSize = new GUIStyle(GUI.skin.GetStyle("label"));
         fontSize.fontSize = 24;
-        GUI.Label(new Rect(20, 20, 200, 50), "Update:      " + updateUpdateCountPerSecond.ToString(), fontSize);
-        GUI.Label(new Rect(20, 50, 200, 50), "FixedUpdate: " + updateFixedUpdateCountPerSecond.ToString(), fontSize);
+        GUI.Label(new Rect(20, 20, 1000, 50), "Update:      " + updateUpdateCountPerSecond.ToString(), fontSize);
+        GUI.Label(new Rect(20, 50, 1000, 50), "FixedUpdate: " + updateFixedUpdateCountPerSecond.ToString(), fontSize);
         GUI.Label(new Rect(20, 80, 700, 50), "x:           " + characterBody.position.x, fontSize);
         GUI.Label(new Rect(20, 110, 700, 50), "y:          " + characterBody.position.y, fontSize);
         GUI.Label(new Rect(20, 140, 200, 50), "moving:     " + anim.GetBool("moving"), fontSize);
