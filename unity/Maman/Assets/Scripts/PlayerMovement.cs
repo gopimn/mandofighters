@@ -6,10 +6,15 @@ public class PlayerMovement : MonoBehaviour
 {
     private Rigidbody2D characterBody;
     private Animator anim;
+    private float dirX = 0f;
+
+    // estos son para el display
+
     private float updateCount = 0;
     private float fixedUpdateCount = 0;
     private float updateUpdateCountPerSecond;
     private float updateFixedUpdateCountPerSecond;
+    
     void Awake()
     {
         // Uncommenting this will cause framerate to drop to 10 frames per second.
@@ -27,28 +32,35 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         updateCount += 1;
-        float dirX = Input.GetAxis("Horizontal");
-        characterBody.velocity = new Vector2(dirX * 7f, characterBody.velocity.y);
+        dirX = Input.GetAxis("Horizontal");
         if (Input.GetButtonDown("Jump"))
             {
-                characterBody.velocity = new Vector2(characterBody.velocity.x, 5f);
+                characterBody.velocity = new Vector2(characterBody.velocity.x, 3f);
+                //anim.SetBool("inTheAir", true);
             }
         if (dirX > 0f)
         {
+            characterBody.velocity = new Vector2(dirX * 3f, characterBody.velocity.y);
             anim.SetBool("moving", true);
             anim.SetBool("dirRight", true);
+            anim.SetBool("dirLeft", false);
         }
         else if (dirX < 0f)
         {
+            characterBody.velocity = new Vector2(dirX * 3f, characterBody.velocity.y);
             anim.SetBool("moving", true);
+            anim.SetBool("dirLeft", true);
             anim.SetBool("dirRight", false);
         }
         else
         {
             anim.SetBool("moving", false);
-        }
-    }
+        }    }
 
+    private void UpdateAnimationState()
+    {
+
+    }
 
     private void FixedUpdate()
     {
@@ -70,7 +82,8 @@ public class PlayerMovement : MonoBehaviour
         GUI.Label(new Rect(20, 110, 200, 50), "y:          " + characterBody.position.y, fontSize);
         GUI.Label(new Rect(20, 140, 200, 50), "moving:     " + anim.GetBool("moving"), fontSize);
         GUI.Label(new Rect(20, 170, 200, 50), "dirRight:   " + anim.GetBool("dirRight"), fontSize);
-        GUI.Label(new Rect(20, 1200, 200, 50), "inTheAir:   " + anim.GetBool("inTheAir"), fontSize);
+        GUI.Label(new Rect(20, 1200, 200, 50), "inTheAir:  " + anim.GetBool("inTheAir"), fontSize);
+        GUI.Label(new Rect(20, 1500, 200, 50), "dirLeft:   " + anim.GetBool("dirLeft"), fontSize);
     }
     IEnumerator Loop()
     {
