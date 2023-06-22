@@ -79,12 +79,12 @@ public class PlayerMovement : MonoBehaviour
         fontSize.fontSize = 24;
         GUI.Label(new Rect(20, 20, 200, 50), "Update:      " + updateUpdateCountPerSecond.ToString(), fontSize);
         GUI.Label(new Rect(20, 50, 200, 50), "FixedUpdate: " + updateFixedUpdateCountPerSecond.ToString(), fontSize);
-        GUI.Label(new Rect(20, 80, 200, 50), "x:           " + characterBody.position.x, fontSize);
-        GUI.Label(new Rect(20, 110, 200, 50), "y:          " + characterBody.position.y, fontSize);
+        GUI.Label(new Rect(20, 80, 700, 50), "x:           " + characterBody.position.x, fontSize);
+        GUI.Label(new Rect(20, 110, 700, 50), "y:          " + characterBody.position.y, fontSize);
         GUI.Label(new Rect(20, 140, 200, 50), "moving:     " + anim.GetBool("moving"), fontSize);
         GUI.Label(new Rect(20, 170, 200, 50), "dirRight:   " + anim.GetBool("dirRight"), fontSize);
-        GUI.Label(new Rect(20, 1200, 200, 50), "inTheAir:  " + anim.GetBool("inTheAir"), fontSize);
-        GUI.Label(new Rect(20, 1500, 200, 50), "dirLeft:   " + anim.GetBool("dirLeft"), fontSize);
+        GUI.Label(new Rect(20, 200, 200, 50), "inTheAir:  " + anim.GetBool("inTheAir"), fontSize);
+        GUI.Label(new Rect(20, 230, 200, 50), "dirLeft:   " + anim.GetBool("dirLeft"), fontSize);
     }
     IEnumerator Loop()
     {
