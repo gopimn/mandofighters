@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     private Rigidbody2D characterBody;
+    private Animator anim;
     private float updateCount = 0;
     private float fixedUpdateCount = 0;
     private float updateUpdateCountPerSecond;
@@ -20,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Debug.Log("What up bitches!");
         characterBody = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     void Update()
@@ -31,6 +33,18 @@ public class PlayerMovement : MonoBehaviour
             {
                 characterBody.velocity = new Vector2(characterBody.velocity.x, 5f);
             }
+        if (dirX > 0f)
+        {
+            anim.SetBool("running", true);
+        }
+        else if (dirX < 0f)
+        {
+            anim.SetBool("running", true);
+        }
+        else
+        {
+            anim.SetBool("running", false);
+        }
     }
 
 
