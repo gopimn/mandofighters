@@ -35,15 +35,17 @@ public class PlayerMovement : MonoBehaviour
             }
         if (dirX > 0f)
         {
-            anim.SetBool("running", true);
+            anim.SetBool("moving", true);
+            anim.SetBool("dirRight", true);
         }
         else if (dirX < 0f)
         {
-            anim.SetBool("running", true);
+            anim.SetBool("moving", true);
+            anim.SetBool("dirRight", false);
         }
         else
         {
-            anim.SetBool("running", false);
+            anim.SetBool("moving", false);
         }
     }
 
@@ -62,10 +64,13 @@ public class PlayerMovement : MonoBehaviour
         // Show the number of calls to both messages.
         GUIStyle fontSize = new GUIStyle(GUI.skin.GetStyle("label"));
         fontSize.fontSize = 24;
-        GUI.Label(new Rect(20, 20, 200, 50), "Update: " + updateUpdateCountPerSecond.ToString(), fontSize);
+        GUI.Label(new Rect(20, 20, 200, 50), "Update:      " + updateUpdateCountPerSecond.ToString(), fontSize);
         GUI.Label(new Rect(20, 50, 200, 50), "FixedUpdate: " + updateFixedUpdateCountPerSecond.ToString(), fontSize);
-            GUI.Label(new Rect(20, 80, 200, 50), "x: " + characterBody.position.x, fontSize);
-        GUI.Label(new Rect(20, 110, 200, 50), "y: " + characterBody.position.y, fontSize);
+        GUI.Label(new Rect(20, 80, 200, 50), "x:           " + characterBody.position.x, fontSize);
+        GUI.Label(new Rect(20, 110, 200, 50), "y:          " + characterBody.position.y, fontSize);
+        GUI.Label(new Rect(20, 140, 200, 50), "moving:     " + anim.GetBool("moving"), fontSize);
+        GUI.Label(new Rect(20, 170, 200, 50), "dirRight:   " + anim.GetBool("dirRight"), fontSize);
+        GUI.Label(new Rect(20, 1200, 200, 50), "inTheAir:   " + anim.GetBool("inTheAir"), fontSize);
     }
     IEnumerator Loop()
     {
