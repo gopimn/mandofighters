@@ -6,7 +6,8 @@ public class PlayerMovement : MonoBehaviour
 {
     private Rigidbody2D characterBody;
     private Animator anim;
-    private float dirX = 0f;
+    private SpriteRenderer sprite;
+    private float dirX; // input from user (arrows -> <-)
 
     // estos son para el display
 
@@ -26,6 +27,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Debug.Log("What up bitches!");
         characterBody = GetComponent<Rigidbody2D>();
+        sprite = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
     }
 
@@ -33,6 +35,11 @@ public class PlayerMovement : MonoBehaviour
     {
         updateCount += 1;
         dirX = Input.GetAxis("Horizontal");
+        UpdateAnimationState();
+    }
+
+    private void UpdateAnimationState()
+    {
         if (Input.GetButtonDown("Jump"))
             {
                 characterBody.velocity = new Vector2(characterBody.velocity.x, 3f);
@@ -42,24 +49,18 @@ public class PlayerMovement : MonoBehaviour
         {
             characterBody.velocity = new Vector2(dirX * 3f, characterBody.velocity.y);
             anim.SetBool("moving", true);
-            anim.SetBool("dirRight", true);
-            anim.SetBool("dirLeft", false);
+            sprite.flipX = false;
         }
         else if (dirX < 0f)
         {
             characterBody.velocity = new Vector2(dirX * 3f, characterBody.velocity.y);
             anim.SetBool("moving", true);
-            anim.SetBool("dirLeft", true);
-            anim.SetBool("dirRight", false);
+            sprite.flipX = true;
         }
         else
         {
             anim.SetBool("moving", false);
-        }    }
-
-    private void UpdateAnimationState()
-    {
-
+        }    
     }
 
     private void FixedUpdate()
