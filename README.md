@@ -235,6 +235,10 @@ Estos son los mas bakanes, el trabajo de [Pao Drataban](https://starwars.fandom.
 - [Voy en este video](https://www.youtube.com/watch?v=65E-q0JxYwU&list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U&index=5)
 
 
+________
 
+## Sera que usamos esto
+- Es nuestro destino el nes challenge??
 
+https://www.youtube.com/watch?v=ZWQ0591PAxM
 
