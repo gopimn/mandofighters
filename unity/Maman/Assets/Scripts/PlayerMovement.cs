@@ -36,13 +36,13 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         updateCount += 1;
-        dirX = Input.GetAxis("Horizontal");
+        //dirX = Input.GetAxis("Horizontal");
         UpdateAnimationState();
     }
 
     private void UpdateAnimationState()
     {
-        if (Input.GetButtonDown("Jump"))
+        /*if (Input.GetButtonDown("Jump"))
             {
                 characterBody.velocity = new Vector2(characterBody.velocity.x, jumpRate);
             }
@@ -61,7 +61,7 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             anim.SetBool("moving", false);
-        }    
+        }    */
     }
 
     private void FixedUpdate()
