@@ -1,102 +1,47 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    private Rigidbody2D characterBody;
-    private Animator anim;
-    private SpriteRenderer sprite;
-    [SerializeField] private float velRate = 3f;
-    [SerializeField] private float jumpRate = 3f;
-    private float dirX; // input from user (arrows -> <-)
+    private CharacterController rb2D;
+    private Vector2 movementInput;
 
-    // estos son para el display
+    [SerializeField] private float moveSpeed = 5f;
 
-    private float updateCount = 0;
-    private float fixedUpdateCount = 0;
-    private float updateUpdateCountPerSecond;
-    private float updateFixedUpdateCountPerSecond;
-    
-    void Awake()
+    private void Awake()
     {
-        // Uncommenting this will cause framerate to drop to 10 frames per second.
-        // This will mean that FixedUpdate is called more often than Update.
-        //Application.targetFrameRate = 10;
-        StartCoroutine(Loop());
-    }
-    void Start()
-    {
-        Debug.Log("What up bitches!");
-        characterBody = GetComponent<Rigidbody2D>();
-        sprite = GetComponent<SpriteRenderer>();
-        anim = GetComponent<Animator>();
+        // Get the Rigidbody2D component attached to the "Player" game object (if any).
+        rb2D = GetComponent<CharacterController>();
     }
 
-    void Update()
+    private void Update()
     {
-        updateCount += 1;
-        //dirX = Input.GetAxis("Horizontal");
-        UpdateAnimationState();
-    }
-
-    private void UpdateAnimationState()
-    {
-        /*if (Input.GetButtonDown("Jump"))
-            {
-                characterBody.velocity = new Vector2(characterBody.velocity.x, jumpRate);
-            }
-        if (dirX > 0f)
+        // Check if the Rigidbody2D component is attached before using it.
+        //if (rb2D.Equals(null))
+        if (rb2D != null)
         {
-            characterBody.velocity = new Vector2(dirX * velRate, characterBody.velocity.y);
-            anim.SetBool("moving", true);
-            sprite.flipX = false;
-        }
-        else if (dirX < 0f)
-        {
-            characterBody.velocity = new Vector2(dirX * velRate, characterBody.velocity.y);
-            anim.SetBool("moving", true);
-            sprite.flipX = true;
+            //Debug.LogWarning("Character controller component is OK.");
+
         }
         else
         {
-            anim.SetBool("moving", false);
-        }    */
-    }
-
-    private void FixedUpdate()
-    {
-        fixedUpdateCount += 1;
-    }
-    // void LateUpdate()
-    // {
-    //     transform.Translate(0, Time.deltaTime, 0);
-    // }
-        
-    void OnGUI()
-    {
-        // Show the number of calls to both messages.
-        GUIStyle fontSize = new GUIStyle(GUI.skin.GetStyle("label"));
-        fontSize.fontSize = 24;
-        GUI.Label(new Rect(20, 20, 1000, 50), "Update:      " + updateUpdateCountPerSecond.ToString(), fontSize);
-        GUI.Label(new Rect(20, 50, 1000, 50), "FixedUpdate: " + updateFixedUpdateCountPerSecond.ToString(), fontSize);
-        GUI.Label(new Rect(20, 80, 700, 50), "x:           " + characterBody.position.x, fontSize);
-        GUI.Label(new Rect(20, 110, 700, 50), "y:          " + characterBody.position.y, fontSize);
-        GUI.Label(new Rect(20, 140, 200, 50), "moving:     " + anim.GetBool("moving"), fontSize);
-        GUI.Label(new Rect(20, 170, 200, 50), "dirRight:   " + anim.GetBool("dirRight"), fontSize);
-        GUI.Label(new Rect(20, 200, 200, 50), "inTheAir:  " + anim.GetBool("inTheAir"), fontSize);
-        GUI.Label(new Rect(20, 230, 200, 50), "dirLeft:   " + anim.GetBool("dirLeft"), fontSize);
-    }
-    IEnumerator Loop()
-    {
-        // Update both CountsPerSecond values every second.
-        while (true)
-        {
-            yield return new WaitForSeconds(1);
-            updateUpdateCountPerSecond = updateCount;
-            updateFixedUpdateCountPerSecond = fixedUpdateCount;
-            updateCount = 0;
-            fixedUpdateCount = 0;
+            // If the Rigidbody2D component is not attached, you can handle it gracefully here
+            // by printing a warning or adding the component programmatically, depending on your use case.
+            Debug.LogWarning("Character controller component is missing from the Player game object.");
         }
+    }
+    
+    // This method is called from the PlayerInput component using the "sent messages" approach.
+    public void OnMove(InputValue value)
+    {
+        Debug.LogWarning("On Move triggered...");
+
+        // Get the movement input vector from the PlayerInput component.
+        // The control type is set to "Vector2" in the PlayerInput component, and action type is "Value".
+        movementInput = value.Get<Vector2>();
+        rb2D.SimpleMove(movementInput * moveSpeed);
+        
+        Debug.LogWarning("On Move ended...");
+
     }
 }
