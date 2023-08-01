@@ -3,7 +3,7 @@ guid: 7d97da5c0d1149b23999809b173a3d81
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,7 +63,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -222,7 +221,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: file-20_5
+      name: fly1
       rect:
         serializedVersion: 2
         x: 135
@@ -600,7 +599,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: file-20_23
+      name: fly2
       rect:
         serializedVersion: 2
         x: 176
@@ -673,52 +672,52 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      file-20_0: -1276127538
-      file-20_1: -745809960
-      file-20_10: 1633834856
       file-20_11: -2042002487
-      file-20_12: 1926450919
-      file-20_13: 225516835
-      file-20_14: -1144244075
-      file-20_15: 1082529554
-      file-20_16: 899072875
-      file-20_17: 339056798
-      file-20_18: -1255968462
-      file-20_19: -778071543
-      file-20_2: 269342645
-      file-20_20: -554007737
-      file-20_21: -1890407159
-      file-20_22: -439127992
-      file-20_23: -2083129727
-      file-20_24: 168534989
-      file-20_25: -1363397526
-      file-20_26: -1863356353
-      file-20_27: -384260772
-      file-20_28: 182285476
-      file-20_29: 29627353
-      file-20_3: -1798369494
-      file-20_30: 656408600
-      file-20_31: 487450743
-      file-20_32: -1805605695
-      file-20_33: -187394044
-      file-20_34: 2066013534
-      file-20_35: 1059834612
-      file-20_36: -640767687
-      file-20_37: -2074708205
-      file-20_38: -1127031293
-      file-20_39: 1713332905
-      file-20_4: 890557009
-      file-20_40: -1648271691
-      file-20_41: 1760625582
-      file-20_42: 725796290
-      file-20_43: -1499777487
-      file-20_44: 1977203538
-      file-20_45: 698919503
-      file-20_5: -1757753911
-      file-20_6: 206752978
       file-20_7: 236186055
+      file-20_15: 1082529554
+      file-20_20: -554007737
+      file-20_27: -384260772
+      file-20_2: 269342645
+      file-20_26: -1863356353
+      file-20_39: 1713332905
       file-20_8: 278609884
+      file-20_3: -1798369494
+      fly2: -2083129727
+      file-20_0: -1276127538
+      file-20_44: 1977203538
+      file-20_22: -439127992
+      file-20_37: -2074708205
+      file-20_33: -187394044
+      file-20_41: 1760625582
+      file-20_29: 29627353
+      file-20_13: 225516835
+      file-20_4: 890557009
       file-20_9: 205451611
+      file-20_14: -1144244075
+      file-20_28: 182285476
+      file-20_32: -1805605695
+      file-20_21: -1890407159
+      file-20_18: -1255968462
+      file-20_35: 1059834612
+      file-20_12: 1926450919
+      file-20_38: -1127031293
+      file-20_42: 725796290
+      file-20_30: 656408600
+      file-20_36: -640767687
+      file-20_1: -745809960
+      file-20_24: 168534989
+      fly1: -1757753911
+      file-20_43: -1499777487
+      file-20_34: 2066013534
+      file-20_19: -778071543
+      file-20_40: -1648271691
+      file-20_25: -1363397526
+      file-20_10: 1633834856
+      file-20_31: 487450743
+      file-20_45: 698919503
+      file-20_6: 206752978
+      file-20_17: 339056798
+      file-20_16: 899072875
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

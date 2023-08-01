@@ -9,6 +9,7 @@ public class PlayerAnimation : MonoBehaviour
 {
     
     [SerializeField] public Boolean moving = false;
+    [SerializeField] public Boolean jumping = false;
 
     private Animator animator;
     private Vector2 movementInput;
@@ -28,6 +29,7 @@ public class PlayerAnimation : MonoBehaviour
     void Update()
     {
         animator.SetBool("moving", moving);
+        animator.SetBool("jumping", jumping);
     }
     
     
@@ -46,5 +48,18 @@ public class PlayerAnimation : MonoBehaviour
             Debug.LogWarning("PlayerAnimation: On Move ended.");
             moving = false;
         }
+    }
+    
+    public void OnJump()
+    {
+        Debug.LogWarning("On Jump triggered...");
+        jumping = true;
+
+        Debug.LogWarning("On Jump ended...");
+    }
+    
+    public void OnJumpEnd()
+    {
+            jumping = false;
     }
 }

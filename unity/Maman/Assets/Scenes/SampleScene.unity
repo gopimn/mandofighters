@@ -832,6 +832,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moving: 0
+  jumping: 0
 --- !u!1001 &786313296412173981
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -846,6 +847,34 @@ PrefabInstance:
     - target: {fileID: 1986611239, guid: 5a0cd029a064731449dfe9a072e99594, type: 3}
       propertyPath: m_AirControl
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1986611239, guid: 5a0cd029a064731449dfe9a072e99594, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1986611239, guid: 5a0cd029a064731449dfe9a072e99594, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1986611239, guid: 5a0cd029a064731449dfe9a072e99594, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1986611233}
+    - target: {fileID: 1986611239, guid: 5a0cd029a064731449dfe9a072e99594, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1986611239, guid: 5a0cd029a064731449dfe9a072e99594, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnJumpEnd
+      objectReference: {fileID: 0}
+    - target: {fileID: 1986611239, guid: 5a0cd029a064731449dfe9a072e99594, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: PlayerAnimation, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1986611239, guid: 5a0cd029a064731449dfe9a072e99594, type: 3}
+      propertyPath: OnLandEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 786313295102029443, guid: 5a0cd029a064731449dfe9a072e99594, type: 3}
       propertyPath: m_Name
