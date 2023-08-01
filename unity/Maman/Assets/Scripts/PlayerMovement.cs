@@ -13,14 +13,20 @@ public class PlayerMovement : MonoBehaviour
 
     private float moveDirection;
     private bool jump = false;
+    
+    private PlayerAnimation playerAnimation;
+
     private void Awake()
     {
         controller = GetComponent<CharacterController2D>();
+        playerAnimation = GetComponent<PlayerAnimation>();
     }
 
     private void Update()
     {
         moveDirection = movementInput.x * moveSpeed;
+        //checks for stopped movement
+        if (moveDirection == 0) playerAnimation.OnMoveEnd();
     }
 
     private void FixedUpdate()
@@ -37,9 +43,8 @@ public class PlayerMovement : MonoBehaviour
         // Get the movement input vector from the event.
         // The control type is set to "Vector2" in the PlayerInput component.
         movementInput = value.Get<Vector2>();
-        
-        Debug.LogWarning("On Move ended...");
 
+        Debug.LogWarning("On Move ended...");
     }
 
     public void OnJump()
