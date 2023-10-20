@@ -1,102 +1,57 @@
-using System.Collections;
-using System.Collections.Generic;
+using System;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    private Rigidbody2D characterBody;
-    private Animator anim;
-    private SpriteRenderer sprite;
-    [SerializeField] private float velRate = 3f;
-    [SerializeField] private float jumpRate = 3f;
-    private float dirX; // input from user (arrows -> <-)
+    public CharacterController2D controller;
 
-    // estos son para el display
+    [SerializeField] private float moveSpeed = 40f;
+    [SerializeField] private float gravity = 9.81f;
 
-    private float updateCount = 0;
-    private float fixedUpdateCount = 0;
-    private float updateUpdateCountPerSecond;
-    private float updateFixedUpdateCountPerSecond;
+    private Vector2 movementInput;
+
+    private float moveDirection;
+    private bool jump = false;
     
-    void Awake()
+    private PlayerAnimation playerAnimation;
+
+    private void Awake()
     {
-        // Uncommenting this will cause framerate to drop to 10 frames per second.
-        // This will mean that FixedUpdate is called more often than Update.
-        //Application.targetFrameRate = 10;
-        StartCoroutine(Loop());
-    }
-    void Start()
-    {
-        Debug.Log("What up bitches!");
-        characterBody = GetComponent<Rigidbody2D>();
-        sprite = GetComponent<SpriteRenderer>();
-        anim = GetComponent<Animator>();
+        controller = GetComponent<CharacterController2D>();
+        playerAnimation = GetComponent<PlayerAnimation>();
     }
 
-    void Update()
+    private void Update()
     {
-        updateCount += 1;
-        dirX = Input.GetAxis("Horizontal");
-        UpdateAnimationState();
-    }
-
-    private void UpdateAnimationState()
-    {
-        if (Input.GetButtonDown("Jump"))
-            {
-                characterBody.velocity = new Vector2(characterBody.velocity.x, jumpRate);
-            }
-        if (dirX > 0f)
-        {
-            characterBody.velocity = new Vector2(dirX * velRate, characterBody.velocity.y);
-            anim.SetBool("moving", true);
-            sprite.flipX = false;
-        }
-        else if (dirX < 0f)
-        {
-            characterBody.velocity = new Vector2(dirX * velRate, characterBody.velocity.y);
-            anim.SetBool("moving", true);
-            sprite.flipX = true;
-        }
-        else
-        {
-            anim.SetBool("moving", false);
-        }    
+        moveDirection = movementInput.x * moveSpeed;
+        //checks for stopped movement
+        if (moveDirection == 0) playerAnimation.OnMoveEnd();
     }
 
     private void FixedUpdate()
     {
-        fixedUpdateCount += 1;
+        controller.Move(moveDirection*Time.fixedDeltaTime, false, jump);
+        jump = false;
     }
-    // void LateUpdate()
-    // {
-    //     transform.Translate(0, Time.deltaTime, 0);
-    // }
-        
-    void OnGUI()
+    
+    // This method is called from the PlayerInput component using the "sent messages" approach.
+    public void OnMove(InputValue value)
     {
-        // Show the number of calls to both messages.
-        GUIStyle fontSize = new GUIStyle(GUI.skin.GetStyle("label"));
-        fontSize.fontSize = 24;
-        GUI.Label(new Rect(20, 20, 1000, 50), "Update:      " + updateUpdateCountPerSecond.ToString(), fontSize);
-        GUI.Label(new Rect(20, 50, 1000, 50), "FixedUpdate: " + updateFixedUpdateCountPerSecond.ToString(), fontSize);
-        GUI.Label(new Rect(20, 80, 700, 50), "x:           " + characterBody.position.x, fontSize);
-        GUI.Label(new Rect(20, 110, 700, 50), "y:          " + characterBody.position.y, fontSize);
-        GUI.Label(new Rect(20, 140, 200, 50), "moving:     " + anim.GetBool("moving"), fontSize);
-        GUI.Label(new Rect(20, 170, 200, 50), "dirRight:   " + anim.GetBool("dirRight"), fontSize);
-        GUI.Label(new Rect(20, 200, 200, 50), "inTheAir:  " + anim.GetBool("inTheAir"), fontSize);
-        GUI.Label(new Rect(20, 230, 200, 50), "dirLeft:   " + anim.GetBool("dirLeft"), fontSize);
+        Debug.LogWarning("On Move triggered...");
+
+        // Get the movement input vector from the event.
+        // The control type is set to "Vector2" in the PlayerInput component.
+        movementInput = value.Get<Vector2>();
+
+        Debug.LogWarning("On Move ended...");
     }
-    IEnumerator Loop()
+
+    public void OnJump()
     {
-        // Update both CountsPerSecond values every second.
-        while (true)
-        {
-            yield return new WaitForSeconds(1);
-            updateUpdateCountPerSecond = updateCount;
-            updateFixedUpdateCountPerSecond = fixedUpdateCount;
-            updateCount = 0;
-            fixedUpdateCount = 0;
-        }
+        Debug.LogWarning("On Jump triggered...");
+        jump = true;
+
+        Debug.LogWarning("On Jump ended...");
     }
 }
